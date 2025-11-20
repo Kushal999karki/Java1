@@ -8,7 +8,7 @@ public class Broko
         char gender='M';
         boolean isStudent=true;
         if(isStudent){
-            System.out.println("My name is " + name );
+            System.out.println("My name is not " + name );
             System.out.println("I am "+ age + " years old");
             System.out.println("My gender is " + gender + " and I got " + gpa +" in +2 ");
             
