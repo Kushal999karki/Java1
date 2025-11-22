@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+* @author (Kushal Raj Pathak);
+*/
 public class RickshawFare 
 {
     public static void main(String[] args)
